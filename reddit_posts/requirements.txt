@@ -1,0 +1,7 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+praw==7.7.1
+python-dotenv==1.0.0
+spacy==3.4.4
+scispacy==0.5.2
+PyDictionary==2.0.1
+psycopg2-binary==2.9.6
