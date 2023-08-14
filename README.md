@@ -1,7 +1,5 @@
 # reddit-top-posts-rhealth
 
-# Reddit Top Posts Scraper
-
 ## Table of Contents
 
 - [Description](#description)
