@@ -59,12 +59,12 @@ python3 scrape.py
 The provided `crontab` file schedules the script to run daily at 8:30 PM. Adjust the timing in the crontab file as needed.
 
 ## Dependencies
-[praw](https://praw.readthedocs.io/en/stable/)
-[python-dotenv](https://pypi.org/project/python-dotenv/)
-[spacy](https://spacy.io/)
-[scispacy](https://pypi.org/project/scispacy/)
-[PyDictionary](https://pypi.org/project/PyDictionary/)
-[psycopg2-binary](https://chat.openai.com/#:~:text=PyDictionary-,psycopg2%2Dbinary,-Docker%20Compose)
+- [praw](https://praw.readthedocs.io/en/stable/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/)
+- [spacy](https://spacy.io/)
+- [scispacy](https://pypi.org/project/scispacy/)
+- [PyDictionary](https://pypi.org/project/PyDictionary/)
+- [psycopg2-binary](https://chat.openai.com/#:~:text=PyDictionary-,psycopg2%2Dbinary,-Docker%20Compose)
 
 ## Dashboard
 View the output of my project [here](https://lookerstudio.google.com/reporting/00ad07d9-4231-4b82-9f08-0a8e04b7bcfb)!
