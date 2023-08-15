@@ -69,6 +69,11 @@ The provided `crontab` file schedules the script to run daily at 8:30 PM. Adjust
 ## Dashboard
 View the output of my project [here](https://lookerstudio.google.com/reporting/00ad07d9-4231-4b82-9f08-0a8e04b7bcfb)!
 
+<img width="1209" alt="Screenshot 2023-08-14 at 10 10 26 PM" src="https://github.com/jaclynfink/reddit-top-posts-rhealth/assets/36872212/49722a2c-12f5-4ca0-9015-62b47fa82638">
 
+<img width="1064" alt="Screenshot 2023-08-14 at 10 10 40 PM" src="https://github.com/jaclynfink/reddit-top-posts-rhealth/assets/36872212/00e77c85-d5e4-4479-8bb1-64ea47331445">
 
+<img width="1146" alt="Screenshot 2023-08-14 at 10 11 00 PM" src="https://github.com/jaclynfink/reddit-top-posts-rhealth/assets/36872212/b793a7e0-dc05-45f1-b9cf-069636233fbc">
+
+<img width="1084" alt="Screenshot 2023-08-14 at 10 11 12 PM" src="https://github.com/jaclynfink/reddit-top-posts-rhealth/assets/36872212/499411d2-74ca-437a-ab92-2c3e42f4e270">
 
